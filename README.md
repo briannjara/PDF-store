@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact Information
 - Developer: Njaramba
 - Email: briannjaramba138@gmail.com
-- GitHub: [Your GitHub Profile: https://github.com/briannjara
+- GitHub: https://github.com/briannjara
 
 ## Acknowledgements
 - [React Native](https://reactnative.dev/)
