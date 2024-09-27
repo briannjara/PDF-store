@@ -50,9 +50,9 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Contact Information
-- Developer: [Your Name]
+- Developer: Njaramba
 - Email: briannjaramba138@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: [Your GitHub Profile: https://github.com/briannjara
 
 ## Acknowledgements
 - [React Native](https://reactnative.dev/)
