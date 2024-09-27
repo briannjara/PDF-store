@@ -24,6 +24,10 @@ const LoginScreen = ({ navigation }) => {
         errorMessage = "Incorrect password.";
       } else if (error.code === 'auth/invalid-email') {
         errorMessage = "Invalid email address.";
+      } else if (error.code === 'auth/user-disabled') {
+        errorMessage = "This account has been disabled.";
+      } else if (error.code === 'auth/too-many-requests') {
+        errorMessage = "Too many failed login attempts. Please try again later.";
       }
       setError(errorMessage);
       Alert.alert("Sign In Error", errorMessage);
